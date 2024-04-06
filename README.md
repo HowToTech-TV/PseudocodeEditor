@@ -4,7 +4,10 @@ A simple editor for editing and running pseudocodes. Python installation is requ
 # How To Use
 Install python, download our latest release (.py) and run the py file. Then u can code
 seamlessly. Only support files in the .pseudo format. You can use this to create 
-.pseudo files.
+.pseudo files. 
+
+# How to Run
+Tap "Program" on the menubar and tap "Run". The output would be shown at the console behind the window.
 
 # Syntax
 Output(): Output the lines \
